@@ -1,16 +1,29 @@
-## Hi there 👋
+ <h1 align="center">
+Hi there 👋
+</h1>
 
-<!--
-**MarijnSopers/MarijnSopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="left"> I'm Wen Hao (@wennhao) and currently a high school student, designer and developer.
+I'm interested in learning new languages and frameworks like Nextjs.
+I work on random projects in my free time, mostly Java!
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://visitcount.itsvg.in/api?id=wennhao&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<h2> Skills and Experience </h2>
+ <p align="center">
+  <a href="https://github.com/tandpfun/skill-icons/blob/main/readme.md#icons-list">
+    <img src="https://skillicons.dev/icons?i=js,java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,arduino,mysql&theme=dark" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,latex,ps,ai,xd" />
+ </p>    
+
+<h2> Currently Learning </h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=lua,python" />
+    <img src="https://skillicons.dev/icons?i=linux,haskell,nextjs,cpp" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" />
+ </p>  
